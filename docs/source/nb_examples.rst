@@ -20,3 +20,13 @@ Jupyter Notebook Examples
    :caption: Real-Time DSP Using pyaudio_helper and ipywidgets
 
    ../nb_examples/Real-Time-DSP_Using_pyaudio_helper_and_ipywidgets
+
+.. toctree::
+   :caption: Convolutional Codes
+
+   ../nb_examples/Convolutional_Codes
+
+.. toctree::
+   :caption: Block Codes
+
+   ../nb_examples/Block_Codes
